@@ -1,0 +1,17 @@
+{
+    "subscriptions": "subscriptions.json",
+    "notification": {
+        "email": {
+            "smtp_server": "smtp.example.com",
+            "port": 587,
+            "recipients": ["recipient@example.com"]
+        }
+    },
+    "report": {
+        "output_path": "./reports/",
+        "format": "md"
+    },
+    "schedule": {
+        "daily_report_time": "09:00"
+    }
+}

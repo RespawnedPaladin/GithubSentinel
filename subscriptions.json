@@ -1,0 +1,4 @@
+[
+    "ollama/ollama",
+    "vllm-project/vllm"
+]
